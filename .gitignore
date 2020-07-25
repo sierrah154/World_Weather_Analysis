@@ -1,9 +1,13 @@
 # Adding config.py file.
 config.py
 
+# Adding random_numbers.ipynb file.
+random_numbers.ipynb
+
 # Adding additional files.
 API_practice.ipynb
-random_numbers.ipynb
+
+# Adding additional files.
 Traversing JSONs.ipynb
 try-except.ipynb
 
